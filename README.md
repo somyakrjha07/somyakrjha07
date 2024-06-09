@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://s10.gifyu.com/images/SY4mg.gif" border="0">
+    <img src = "https://s10.gifyu.com/images/SY4mg.gif" border="0">
     </a>
 </div>
 
