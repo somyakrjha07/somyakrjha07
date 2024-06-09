@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://ibb.co/Rh1NrRj">
-        <img src="https://i.ibb.co/wJT7G5c/Minimalistic-Creative-Agency-Business-Banner.jpg" alt="Minimalistic-Creative-Agency-Business-Banner" border="0">
+        <img src="[https://i.ibb.co/wJT7G5c/Minimalistic-Creative-Agency-Business-Banner.jpg" alt="Minimalistic-Creative-Agency-Business-Banner](https://d22eq5seraiahh.cloudfront.net/v6k8au%2Fpreview%2F58519892%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1717947141&Signature=X~4N5lSng4NyO2vcDznZyFrYO3OOu5aMqNf8FV4O45Kfxqbh8XaK381wuYOhPV~P0lCbZBYsl0PMu41wLdwSwgMfkOIjgtz~QYe7dD6GasvHrBotSBwRAdvRSpCS3DT9qoARrl4KB~-xYOokcHOvWTGPBl2kD3UMMXNH-EMB0zh1H4QOdC9FKbRnehu~CBYlBzsVVFZ~nwQa64jMEaXI4M6PQrWllDr9Udm0APzybrDmqnz5akzsVhlUgFlr2~LM7YzgendgNCHx6J7o1v1vyNs70NlV3edOf5dmcSbilZcAkkmospW2tx93asfyGKFE3-8yGcZbnvfDYy82yWw~Vg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)" border="0">
     </a>
 </div>
 
