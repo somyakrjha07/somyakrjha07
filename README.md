@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somya Jha</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img src= "file:///C:/Users/user/Downloads/Minimalistic%20Creative%20Agency%20Business%20Banner.jpg">
+<img src= "https://ibb.co/Rh1NrRj">
 
 - 👯 I’m looking to collaborate on **Open source**
 
