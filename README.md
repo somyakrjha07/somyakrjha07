@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somya Jha</h1>
+<img src= "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frwcrots8j9mfqm0rxlf1.jpeg">
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 - 👯 I’m looking to collaborate on **Open source**
