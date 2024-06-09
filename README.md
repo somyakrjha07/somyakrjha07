@@ -1,6 +1,7 @@
+<center><a href="https://ibb.co/Rh1NrRj"><img src="https://i.ibb.co/wJT7G5c/Minimalistic-Creative-Agency-Business-Banner.jpg" alt="Minimalistic-Creative-Agency-Business-Banner" border="0"></a> </center>
 <h1 align="center">Hi 👋, I'm Somya Jha</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<a href="https://ibb.co/Rh1NrRj"><img src="https://i.ibb.co/wJT7G5c/Minimalistic-Creative-Agency-Business-Banner.jpg" alt="Minimalistic-Creative-Agency-Business-Banner" border="0"></a>
+
 
 - 👯 I’m looking to collaborate on **Open source**
 
